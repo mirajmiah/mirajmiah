@@ -7,7 +7,7 @@
 ## About Me
 
 - 🖥️ I'm a passionate Computer Science and Engineering student building my skills and working on exciting projects.
-- 🚀 Currently focused on enhancing my knowledge of backend development, database integration, and full-stack web development.
+- 🚀 Currently focused on enhancing my knowledge of development, database integration, and full-stack web development.
 - 🌟 A lifelong learner who loves solving challenges and staying updated with the latest trends in tech.
 
 ---
@@ -16,7 +16,7 @@
 
 - **Programming Languages**: Python, C, C++, Java, JavaScript
 - **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: (e.g., Node.js, Django/Flask – if applicable)
+- **Backend**: ( Node.js, Django/Flask – if applicable)
 - **Database**: MySQL, MongoDB *(if applicable)*
 
 ---
@@ -43,9 +43,9 @@ Check out all my projects [here](https://github.com/MirajMiah?tab=repositories).
 
 ## Let's Connect!
 
-- 📧 **Email**: mirajmiah@example.com
-- 🔗 **LinkedIn**: [Miraj Miah's LinkedIn](https://linkedin.com/in/mirajmiah)
-- 🐦 **Twitter**: [Miraj Miah on Twitter](https://twitter.com/mirajmiah)
+- 📧 **Email**: mirajmiah322173@gmail.com
+- 🔗 **LinkedIn**: [Miraj Miah's LinkedIn]([https://linkedin.com/in/mirajmiah](https://www.linkedin.com/in/miraj-miah-3b30a82a2/))
+- 🐦 **Twitter**: [Miraj Miah on Twitter](https://x.com/Miraj_CSE)
 
 ---
 
