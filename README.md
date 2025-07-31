@@ -1,6 +1,6 @@
 # Hi there, I'm Miraj Miah! 👋
 
-🎓 **B.Tech 2nd Year CSE Student** | 🌱 **Learning and Exploring New Technologies** | 💻 **Open to Opportunities**
+🎓 **B.Tech 3rd Year CSE Student** | 🌱 **Learning and Exploring New Technologies** | 💻 **Open to Opportunities**
 
 ---
 
@@ -16,8 +16,8 @@
 
 - **Programming Languages**: Python, C, C++, Java, JavaScript
 - **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: ( Node.js, Django/Flask – if applicable)
-- **Database**: MySQL, MongoDB *(if applicable)*
+- **Backend**: Node.js, Django
+- **Database**: MySQL, MongoDB
 
 ---
 
