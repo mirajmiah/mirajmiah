@@ -1,6 +1,6 @@
 # Hi there, I'm Miraj Miah! 👋
 
-🎓 **B.Tech 3rd Year CSE Student** | 🌱 **Learning and Exploring New Technologies** | 💻 **Open to Opportunities**
+🎓 **B.Tech CSE Student** | 🌱 **Learning and Exploring New Technologies** | 💻 **Open to Opportunities**
 
 ---
 
